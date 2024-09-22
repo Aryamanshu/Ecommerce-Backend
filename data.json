@@ -27,9 +27,7 @@
       "discountPercentage": 5.5,
       "rating": 3.28,
       "stock": 44,
-
       "brand": "Glamour Beauty",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
       ],
@@ -44,9 +42,7 @@
       "discountPercentage": 18.14,
       "rating": 3.82,
       "stock": 59,
-
       "brand": "Velvet Touch",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png",
         "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png",
@@ -64,9 +60,7 @@
       "discountPercentage": 19.03,
       "rating": 2.51,
       "stock": 68,
-
       "brand": "Chic Cosmetics",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
       ],
@@ -82,9 +76,7 @@
       "discountPercentage": 2.46,
       "rating": 3.91,
       "stock": 71,
-
       "brand": "Nail Couture",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
       ],
@@ -99,9 +91,7 @@
       "discountPercentage": 0.32,
       "rating": 4.85,
       "stock": 17,
-
       "brand": "Calvin Klein",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
         "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
@@ -120,9 +110,7 @@
       "discountPercentage": 15,
       "rating": 2.76,
       "stock": 41,
-
       "brand": "Chanel",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
         "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
@@ -140,9 +128,7 @@
       "discountPercentage": 17.44,
       "rating": 3.31,
       "stock": 91,
-
       "brand": "Dior",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
         "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
@@ -159,9 +145,7 @@
       "discountPercentage": 11.47,
       "rating": 2.68,
       "stock": 3,
-
       "brand": "Dolce & Gabbana",
-
       "images": [
         "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
         "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
@@ -178,7 +162,10 @@
       "discountPercentage": 8.9,
       "rating": 2.69,
       "stock": 93,
-      "tags": ["fragrances", "perfumes"],
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
       "brand": "Gucci",
       "sku": "FFKZ6HOF",
       "weight": 10,
@@ -237,7 +224,10 @@
       "discountPercentage": 0.29,
       "rating": 4.14,
       "stock": 47,
-      "tags": ["furniture", "beds"],
+      "tags": [
+        "furniture",
+        "beds"
+      ],
       "brand": "Annibale Colombo",
       "sku": "4KMDTZWF",
       "weight": 3,
@@ -296,7 +286,10 @@
       "discountPercentage": 18.54,
       "rating": 3.08,
       "stock": 16,
-      "tags": ["furniture", "sofas"],
+      "tags": [
+        "furniture",
+        "sofas"
+      ],
       "brand": "Annibale Colombo",
       "sku": "LUU95CQP",
       "weight": 3,
@@ -355,7 +348,10 @@
       "discountPercentage": 9.58,
       "rating": 4.48,
       "stock": 16,
-      "tags": ["furniture", "bedside tables"],
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
       "brand": "Furniture Co.",
       "sku": "OWPLTZYX",
       "weight": 10,
@@ -414,7 +410,10 @@
       "discountPercentage": 15.23,
       "rating": 4.11,
       "stock": 47,
-      "tags": ["furniture", "office chairs"],
+      "tags": [
+        "furniture",
+        "office chairs"
+      ],
       "brand": "Knoll",
       "sku": "RKHVJ4FE",
       "weight": 3,
@@ -473,7 +472,10 @@
       "discountPercentage": 11.22,
       "rating": 3.26,
       "stock": 95,
-      "tags": ["furniture", "bathroom"],
+      "tags": [
+        "furniture",
+        "bathroom"
+      ],
       "brand": "Bath Trends",
       "sku": "7OLTIEVO",
       "weight": 6,
@@ -532,7 +534,9 @@
       "discountPercentage": 1.97,
       "rating": 2.96,
       "stock": 9,
-      "tags": ["fruits"],
+      "tags": [
+        "fruits"
+      ],
       "sku": "QTROUV79",
       "weight": 8,
       "dimensions": {
@@ -588,7 +592,9 @@
       "discountPercentage": 17.99,
       "rating": 2.83,
       "stock": 96,
-      "tags": ["meat"],
+      "tags": [
+        "meat"
+      ],
       "sku": "BWWA2MSO",
       "weight": 9,
       "dimensions": {
@@ -645,7 +651,10 @@
       "discountPercentage": 9.57,
       "rating": 2.88,
       "stock": 13,
-      "tags": ["pet supplies", "cat food"],
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
       "sku": "C3F8QN6O",
       "weight": 9,
       "dimensions": {
@@ -701,7 +710,9 @@
       "discountPercentage": 10.46,
       "rating": 4.61,
       "stock": 69,
-      "tags": ["meat"],
+      "tags": [
+        "meat"
+      ],
       "sku": "G5YEHW7B",
       "weight": 7,
       "dimensions": {
@@ -758,7 +769,9 @@
       "discountPercentage": 18.89,
       "rating": 4.01,
       "stock": 22,
-      "tags": ["cooking essentials"],
+      "tags": [
+        "cooking essentials"
+      ],
       "sku": "Q6ZP1UY8",
       "weight": 8,
       "dimensions": {
@@ -814,7 +827,9 @@
       "discountPercentage": 11.44,
       "rating": 4.71,
       "stock": 22,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "6KGF2K6Z",
       "weight": 9,
       "dimensions": {
@@ -870,7 +885,10 @@
       "discountPercentage": 18.15,
       "rating": 2.74,
       "stock": 40,
-      "tags": ["pet supplies", "dog food"],
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
       "sku": "A6QRCH37",
       "weight": 2,
       "dimensions": {
@@ -926,7 +944,9 @@
       "discountPercentage": 5.8,
       "rating": 4.46,
       "stock": 10,
-      "tags": ["dairy"],
+      "tags": [
+        "dairy"
+      ],
       "sku": "YA617RI7",
       "weight": 4,
       "dimensions": {
@@ -982,7 +1002,9 @@
       "discountPercentage": 7,
       "rating": 4.83,
       "stock": 99,
-      "tags": ["seafood"],
+      "tags": [
+        "seafood"
+      ],
       "sku": "XNIH1MTA",
       "weight": 8,
       "dimensions": {
@@ -1038,7 +1060,9 @@
       "discountPercentage": 15.5,
       "rating": 4.28,
       "stock": 89,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "HU7S7VQ0",
       "weight": 7,
       "dimensions": {
@@ -1094,7 +1118,9 @@
       "discountPercentage": 18.51,
       "rating": 4.43,
       "stock": 8,
-      "tags": ["vegetables"],
+      "tags": [
+        "vegetables"
+      ],
       "sku": "Y4RM3JCB",
       "weight": 2,
       "dimensions": {
@@ -1150,7 +1176,9 @@
       "discountPercentage": 1.91,
       "rating": 3.5,
       "stock": 25,
-      "tags": ["condiments"],
+      "tags": [
+        "condiments"
+      ],
       "sku": "BTBNIIOU",
       "weight": 9,
       "dimensions": {
@@ -1206,7 +1234,9 @@
       "discountPercentage": 7.58,
       "rating": 3.77,
       "stock": 76,
-      "tags": ["desserts"],
+      "tags": [
+        "desserts"
+      ],
       "sku": "VEZMU1EQ",
       "weight": 5,
       "dimensions": {
@@ -1265,7 +1295,9 @@
       "discountPercentage": 5.45,
       "rating": 3.41,
       "stock": 99,
-      "tags": ["beverages"],
+      "tags": [
+        "beverages"
+      ],
       "sku": "M2K19S06",
       "weight": 2,
       "dimensions": {
@@ -1321,7 +1353,9 @@
       "discountPercentage": 10.32,
       "rating": 4.37,
       "stock": 1,
-      "tags": ["fruits"],
+      "tags": [
+        "fruits"
+      ],
       "sku": "0X3NORB9",
       "weight": 8,
       "dimensions": {
@@ -1386,6 +1420,23 @@
       ],
       "rating": 0,
       "deleted": true
+    },
+    {
+      "id": "2a93",
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "discountPercentage": 11.47,
+      "rating": 2.68,
+      "stock": 3,
+      "brand": "Dolce & Gabbana",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
     }
   ],
   "categories": [
@@ -1566,7 +1617,10 @@
           "discountPercentage": 7.17,
           "rating": 4.94,
           "stock": 5,
-          "tags": ["beauty", "mascara"],
+          "tags": [
+            "beauty",
+            "mascara"
+          ],
           "brand": "Essence",
           "sku": "RCH45Q1A",
           "weight": 2,
@@ -1625,7 +1679,10 @@
           "discountPercentage": 17.44,
           "rating": 3.31,
           "stock": 91,
-          "tags": ["fragrances", "perfumes"],
+          "tags": [
+            "fragrances",
+            "perfumes"
+          ],
           "brand": "Dior",
           "sku": "E70NB03B",
           "weight": 10,
@@ -1720,7 +1777,10 @@
           "discountPercentage": 19.03,
           "rating": 2.51,
           "stock": 68,
-          "tags": ["beauty", "lipstick"],
+          "tags": [
+            "beauty",
+            "lipstick"
+          ],
           "brand": "Chic Cosmetics",
           "sku": "O5IF1NTA",
           "weight": 5,
@@ -1814,7 +1874,10 @@
           "discountPercentage": 5.5,
           "rating": 3.28,
           "stock": 44,
-          "tags": ["beauty", "eyeshadow"],
+          "tags": [
+            "beauty",
+            "eyeshadow"
+          ],
           "brand": "Glamour Beauty",
           "sku": "MVCFH27F",
           "weight": 3,
@@ -1907,7 +1970,10 @@
           "discountPercentage": 0.32,
           "rating": 4.85,
           "stock": 17,
-          "tags": ["fragrances", "perfumes"],
+          "tags": [
+            "fragrances",
+            "perfumes"
+          ],
           "brand": "Calvin Klein",
           "sku": "DZM2JQZE",
           "weight": 5,
@@ -2011,7 +2077,10 @@
           "discountPercentage": 5.5,
           "rating": 3.28,
           "stock": 44,
-          "tags": ["beauty", "eyeshadow"],
+          "tags": [
+            "beauty",
+            "eyeshadow"
+          ],
           "brand": "Glamour Beauty",
           "sku": "MVCFH27F",
           "weight": 3,
@@ -2113,7 +2182,10 @@
           "discountPercentage": 19.03,
           "rating": 2.51,
           "stock": 68,
-          "tags": ["beauty", "lipstick"],
+          "tags": [
+            "beauty",
+            "lipstick"
+          ],
           "brand": "Chic Cosmetics",
           "sku": "O5IF1NTA",
           "weight": 5,
@@ -2215,7 +2287,10 @@
           "discountPercentage": 7.17,
           "rating": 4.94,
           "stock": 5,
-          "tags": ["beauty", "mascara"],
+          "tags": [
+            "beauty",
+            "mascara"
+          ],
           "brand": "Essence",
           "sku": "RCH45Q1A",
           "weight": 2,
@@ -2317,7 +2392,10 @@
           "discountPercentage": 5.5,
           "rating": 3.28,
           "stock": 44,
-          "tags": ["beauty", "eyeshadow"],
+          "tags": [
+            "beauty",
+            "eyeshadow"
+          ],
           "brand": "Glamour Beauty",
           "sku": "MVCFH27F",
           "weight": 3,
@@ -2411,7 +2489,10 @@
           "discountPercentage": 5.5,
           "rating": 3.28,
           "stock": 44,
-          "tags": ["beauty", "eyeshadow"],
+          "tags": [
+            "beauty",
+            "eyeshadow"
+          ],
           "brand": "Glamour Beauty",
           "sku": "MVCFH27F",
           "weight": 3,
