@@ -18,10 +18,17 @@ exports.fetchAllProducts = async (req, res) => {
   //pagination= :{_page:1,_limit=10}
   //TODO: on server we will support multi values in filter
   
-  console.log("Products")
-  console.log(req.body)
-  let query = Product.find({deleted:{$ne:true}});
-  let totalProductsQuery = Product.find({deleted:{$ne:true}});
+  // console.log("Products")
+  // console.log(req.body)
+
+  let condition = {}
+  if(!req.query.admin){
+      condition.deleted = {$ne:true}
+  }
+  
+  
+  let query = Product.find(condition);
+  let totalProductsQuery = Product.find(condition);
 
   if (req.query.category) {
     query = query.find({ category: req.query.category });
